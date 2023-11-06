@@ -8,6 +8,6 @@
 ![image](https://github.com/samirali-mukhi/Library-Management-System/assets/90303555/33931a95-c549-4053-ba93-8ba103e846f5)
 ![image](https://github.com/samirali-mukhi/Library-Management-System/assets/90303555/ee2e55db-c529-4dff-9657-1335a3a2ff95)
 ![image](https://github.com/samirali-mukhi/Library-Management-System/assets/90303555/61933a12-e80f-4f1a-bc73-592ff41da7d4)
-![image](https://github.com/samirali-mukhi/Library-Management-System/assets/90303555/da7c764c-66af-48b8-95ab-35cadace5467)
+![image](https://github.com/samirali-mukhi/Library-Management-System/assets/90303555/69034751-4688-41dd-a3a7-08ea68dfef62)
 ![image](https://github.com/samirali-mukhi/Library-Management-System/assets/90303555/5769cd20-7185-418c-824e-71a86dfe810d)
 ![image](https://github.com/samirali-mukhi/Library-Management-System/assets/90303555/46c21f2b-2752-450d-a28e-d1af6de01707)
